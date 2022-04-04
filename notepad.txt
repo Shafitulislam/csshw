@@ -1,0 +1,50 @@
+31-March-21
+
+web - cross browser support
+
+measurment unit- px,pt,em,rem,%
+color
+RED GREEN BLUE
+ color name - red
+ hex #ffffff
+ rgb (00,00,00)
+ rgba(00,00,00, .1)
+
+
+display
+    block
+    inline
+    inline-block
+    none
+
+ html block level element
+ html inline element   
+
+margin padding
+box model
+
+semantic markup
+      header
+      footer
+      nav
+      address
+
+Non semantic markup
+    div
+    span
+
+
+   header
+   footer
+   nav
+
+next class
+
+
+   audio 
+   vedio
+   iframe
+   strong
+   i
+   em
+
